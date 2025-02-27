@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Zoom To View Entire PDF",
+  "Type": "Element",
+  "Id": "a10FAgmfmEW4JEF74mu9Kg",
+  "Reference": "FJfy4hKgVEmM7mB4b2o7vA/a10FAgmfmEW4JEF74mu9Kg",
+  "ParentRef": "FJfy4hKgVEmM7mB4b2o7vA/AOqw1JzdK02Xqm0aJvVVNg",
+  "Created": "2025-02-27T13:28:41.9795486Z",
+  "Updated": "2025-02-27T13:28:41.9795486Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
